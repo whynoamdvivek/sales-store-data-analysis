@@ -1,0 +1,13 @@
+# Editor / operating system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local environment and secrets
+.env
+*.log
+
+# PostgreSQL exports / temporary files
+*.dump
+*.backup
