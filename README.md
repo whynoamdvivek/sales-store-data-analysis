@@ -26,7 +26,7 @@ sales-store-data-analysis/
 ├── sql/
 │   └── sales_analysis.sql
 ├── screenshots/
-│   └── query-results.png   # Add your own screenshot here
+│   └── query-results.png   
 └── .gitignore
 ```
 
